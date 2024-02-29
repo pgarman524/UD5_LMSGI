@@ -23,10 +23,17 @@
     <precio>12.00</precio>
 </libro>
 <libro>
-    <titulo>Nuevo Libro Autor Viejo</titulo>
-    <autor>Alberto Sánchez</autor>
-    <editor>Dykinson</editor>
-    <ISB>948-54-9869</ISB>
-    <precio>12.70</precio>
+    <titulo>SCARRED: UNA HISTORIA DE NUNCA JAMAS</titulo>
+    <autor> Emily Mcintire</autor>
+    <editor>Montena</editor>
+    <ISB>9788419650351</ISB>
+    <precio>10.50</precio>
+</libro>
+<libro>
+    <titulo>¡A CEREBRAR!</titulo>
+    <autor>Raquel Mascaraque</autor>
+    <editor>Aguilar</editor>
+    <ISB>978-84-9849</ISB>
+    <precio>12.50</precio>
 </libro>
 </libreria>
