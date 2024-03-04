@@ -7,6 +7,7 @@
         <editor>Charles River Media</editor>
         <ISB>978-1584503804</ISB>
         <precio>50.06</precio>
+        <numPaginas>150</numPaginas>
     </libro>
     <libro>
         <titulo>Principios de seguridad infromática para usuarios</titulo>
@@ -14,26 +15,14 @@
         <editor>Dykinson</editor>
         <ISB>978-84-9849-998-8</ISB>
         <precio>13.00</precio>
+        <numPaginas>89</numPaginas>
     </libro>
     <libro>
         <titulo>Ejercicios complementarios de lógica digital</titulo>
         <autor>Alberto Sánchez</autor>
         <editor>Dykinson</editor>
         <ISB>978-84-9849</ISB>
-        <precio>12.50</precio>
-    </libro>
-    <libro>
-        <titulo>SCARRED: UNA HISTORIA DE NUNCA JAMAS</titulo>
-        <autor> Emily Mcintire</autor>
-        <editor>Montena</editor>
-        <ISB>9788419650351</ISB>
-        <precio>10.50</precio>
-    </libro>
-    <libro>
-        <titulo>¡A CEREBRAR!</titulo>
-        <autor>Raquel Mascaraque</autor>
-        <editor>Aguilar</editor>
-        <ISB>978-84-9849</ISB>
-        <precio>12.50</precio>
+        <precio>12.00</precio>
+        <numPaginas>270</numPaginas>
     </libro>
 </libreria>
