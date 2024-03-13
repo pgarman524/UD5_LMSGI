@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cd_p2.xsl" type="text/xsl"?>
+<listaCD>
+    <cd>
+        <tituloAlbum>Hot Wax</tituloAlbum>
+        <artista>Grant hart</artista>
+        <canciones>
+            <cancion>
+                <titulo>My Regrets</titulo>
+                <tiempo>10.00</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>You're the Reflection of the Moon on the Water</titulo>
+                <tiempo>4.21</tiempo>
+            </cancion>
+           
+        </canciones>
+        <selloDiscografico>none</selloDiscografico>
+        <anioPublicacion>2009</anioPublicacion>
+    </cd>
+    <!-- -->
+    <cd>
+        <tituloAlbum>Beyond the Border</tituloAlbum>
+        <artista>Mark Bousie</artista>
+        <canciones>
+            <cancion>
+                <titulo>Joie De Vivre</titulo>
+                <tiempo>1.50</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Bubbling Under</titulo>
+                <tiempo>2.18</tiempo>
+            </cancion>
+           
+        </canciones>
+        <selloDiscografico>Audio Network</selloDiscografico>
+        <anioPublicacion>2024</anioPublicacion>
+    </cd>
+
+    <cd>
+        <tituloAlbum>Waiting On The Future</tituloAlbum>
+        <artista>Johnny Lloyd</artista>
+        <canciones>
+            <cancion>
+                <titulo>Wait For U</titulo>
+                <tiempo>3.59</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Watch It Come Alive</titulo>
+                <tiempo>2.18</tiempo>
+            </cancion>
+           
+        </canciones>
+        <selloDiscografico>Audio Network</selloDiscografico>
+        <anioPublicacion>2024</anioPublicacion>
+    </cd>
+    
+    <cd>
+        <tituloAlbum>Sunset Plaza</tituloAlbum>
+        <artista>Josh Oliver y Duncan Pym</artista>
+        <canciones>
+            <cancion>
+                <titulo>Got That Fire</titulo>
+                <tiempo>2.19</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Hey You</titulo>
+                <tiempo>2.08</tiempo>
+            </cancion>
+           
+        </canciones>
+        <selloDiscografico>Audio Network</selloDiscografico>
+        <anioPublicacion>2024</anioPublicacion>
+    </cd>
+    
+    <cd>
+        <tituloAlbum>Prismarama</tituloAlbum>
+        <artista>León Larregui</artista>
+        <canciones>
+            <cancion>
+                <titulo>Incendio de Amor/Carmelita</titulo>
+                <tiempo>4.48</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Amantes</titulo>
+                <tiempo>3.52</tiempo>
+            </cancion>
+           
+        </canciones>
+        <selloDiscografico>Universal Music México</selloDiscografico>
+        <anioPublicacion>2023</anioPublicacion>
+    </cd>
+
+    <cd>
+        <tituloAlbum>King of the Delta Blues Singers</tituloAlbum>
+        <artista>Robert Jhonson</artista>
+        <canciones>
+            <cancion>
+                <titulo>Cross Road Blues</titulo>
+                <tiempo>2.29</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Terraplane Blues</titulo>
+                <tiempo>3.01</tiempo>
+            </cancion>
+           
+        </canciones>
+        <selloDiscografico>Columbia Records</selloDiscografico>
+        <anioPublicacion>1961</anioPublicacion>
+    </cd>
+
+    <cd>
+        <tituloAlbum>The Moment</tituloAlbum>
+        <artista>Lisa Stansfield</artista>
+        <canciones>
+            <cancion>
+                <titulo>Easier</titulo>
+                <tiempo>4.39</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Treat Me Like A Woman</titulo>
+                <tiempo>4.00</tiempo>
+            </cancion>
+           
+        </canciones>
+        <selloDiscografico>ZZT Records</selloDiscografico>
+        <anioPublicacion>2004</anioPublicacion>
+    </cd>
+
+    <cd>
+        <tituloAlbum>Colmillo de Leche</tituloAlbum>
+        <artista>Álbum Completo</artista>
+        <canciones>
+            <cancion>
+                <titulo>Música De Fondo</titulo>
+                <tiempo>3.48</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Necesito Encontrarte</titulo>
+                <tiempo>3.45</tiempo>
+            </cancion>
+           
+        </canciones>
+        <selloDiscografico>Socios Music</selloDiscografico>
+        <anioPublicacion>2023</anioPublicacion>
+    </cd>
+
+    <cd>
+        <tituloAlbum>Vida Cotidiana</tituloAlbum>
+        <artista>Juanes</artista>
+        <canciones>
+            <cancion>
+                <titulo>Vida Cotidiana</titulo>
+                <tiempo>3.10</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Cecilia</titulo>
+                <tiempo>2.51</tiempo>
+            </cancion>
+           
+        </canciones>
+        <selloDiscografico>UMLE - Latino</selloDiscografico>
+        <anioPublicacion>2023</anioPublicacion>
+    </cd>
+
+    <cd>
+        <tituloAlbum>Night Visions</tituloAlbum>
+        <artista>Imagine Dragons</artista>
+        <canciones>
+            <cancion>
+                <titulo>Demons</titulo>
+                <tiempo>3.14</tiempo>
+            </cancion>
+            <cancion>
+                <titulo>Radioactive</titulo>
+                <tiempo>3.07</tiempo>
+            </cancion>
+           
+        </canciones>
+        <selloDiscografico>KIDinaKORNER</selloDiscografico>
+        <anioPublicacion>2012</anioPublicacion>
+    </cd>
+</listaCD>
